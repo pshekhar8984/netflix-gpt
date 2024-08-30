@@ -1,6 +1,8 @@
 # NETFLIX-GPT
 -create-react-app
-- install tailwindcss
+-install tailwindcss
+-Header
+-Log In form
 
 # Feature
 -Login/Signup
